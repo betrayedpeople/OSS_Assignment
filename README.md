@@ -2,8 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=CCEEFF&height=140&section=header&fontSize=100)
 
-<br/>
-
 # OSS QB반 3조 깃 교과서 정리
 
 <br/>
